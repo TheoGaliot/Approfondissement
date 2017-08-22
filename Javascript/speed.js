@@ -1,4 +1,4 @@
-var speed = 79;  //Changer la valeur de la variable speed pour afficher une condition différente dans
+var speed = 70;  //Changer la valeur de la variable speed pour afficher une condition différente dans
                    //la console
 
 if(speed<80) {
